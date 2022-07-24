@@ -126,7 +126,8 @@ const MovieInformation = () => {
         item
         sm={12}
         lg={4}
-        style={{ display: "flex", marginBottom: "30px" }}
+        align="center"
+        //style={{ display: "flex", marginBottom: "30px" }}
       >
         <img
           className={classes.poster}
